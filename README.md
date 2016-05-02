@@ -35,6 +35,17 @@ This is an Open Source Weather App.
         }
     ```
 
+### model:
 
+- Add Entity Class For `City`, `County` and `Province`.
+- `CoolWeatherDB`: DB Class To Save Data.
+
+
+### util:
+
+
+- `HttpCallbackListener`: Interface To Handler different status from serve
+- `HttpUtil`: Get Data From `http://www.weather.com.cn/data/list3/city21.xml`
+- `Utility`: Handler The Response Data Format.
 
 
