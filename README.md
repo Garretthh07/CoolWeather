@@ -45,7 +45,7 @@ This is an Open Source Weather App.
 
 
 - `HttpCallbackListener`: Interface To Handler different status from serve
-- `HttpUtil`: Get Data From `http://www.weather.com.cn/data/list3/city21.xml`
+- `HttpUtil`: Get Data From [http://www.weather.com.cn/data/list3/city21.xml](http://www.weather.com.cn/data/list3/city21.xml  "中国天气网")
 - `Utility`: Handler The Response Data Format.
 
 
